@@ -6,7 +6,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #Jonatan# | #S152471# |
+| Jonatan Nielsen | S152471 |
 
 ***
 
