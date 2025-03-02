@@ -5,9 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| #Jonatan# | #S152471# |
 
 ***
 
